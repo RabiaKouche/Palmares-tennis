@@ -1,0 +1,12 @@
+LES MEMBRES DE GROUPE :
+Rabia KOUCHE, Soraya HADDAD.
+
+FICHIER À CONFIGURER : 
+Le fichier à configurer pour la connexion à la base de données est : connexion.php
+
+DIFFICULTÉS RENCONTRÉS POUR TRAVAILLER SUR CE PROJET EN LIEN AVEC LE CONFINEMENT :
+
+quelques remarques concernant les conditions de la réalisation du projet:
+
+Pendant la réalisation de ce projet on a rencontré quelques soucis qui nous ont empeché de bien avancer spécialement moi (Haddad), en effet j'ai eu des problemes avec mon pc qui etait endommagé, il ne s'allumait pas y'avais un ecran tout bleu, ça m'a pris beaucoups de temps pour le réparer, du coup on a eu du mal à travailler en équipe, par la suite j'ai eu un autre probleme de DLL  vu que je suis sur windows, a chaque fois que j'essayais de demarrer xammp  j'avais un message d'erreur, je vous ai deja envoyé un message concernant ce probleme, et j'ai sollicité l'aide de monsieur Amanton, j'ai suivis ses propositions, j'ai fais des mises à jours mais ça ne marchait toujours pas, ce qui fait que j'ai eu un peu de mal a participer à ce projet.
+
